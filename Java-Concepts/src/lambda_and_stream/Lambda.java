@@ -1,3 +1,5 @@
+package lambda_and_stream;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

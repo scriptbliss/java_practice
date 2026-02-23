@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Convert list of strings to uppercase
 
 import java.util.List;

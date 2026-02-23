@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Find maximum/minimum in list
 
 import java.util.Arrays;

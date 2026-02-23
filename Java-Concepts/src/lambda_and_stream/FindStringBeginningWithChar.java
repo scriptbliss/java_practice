@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Count strings starting with 'A'
 
 import java.util.List;

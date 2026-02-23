@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Group elements by condition
 
 import java.util.Arrays;

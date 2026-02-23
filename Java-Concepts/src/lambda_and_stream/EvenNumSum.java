@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Find sum of all even numbers in array
 
 import java.util.Arrays;

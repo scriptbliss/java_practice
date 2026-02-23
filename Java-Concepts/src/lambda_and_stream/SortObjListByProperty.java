@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Sort list of objects by property
 
 import java.util.Arrays;

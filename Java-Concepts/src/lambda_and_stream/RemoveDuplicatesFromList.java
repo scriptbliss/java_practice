@@ -1,3 +1,4 @@
+package lambda_and_stream;
 // Remove duplicates from list
 
 import java.util.ArrayList;
